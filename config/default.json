@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "",
+  "mongoURI": "mongodb+srv://asaanMoversAdmin:iamadminahmad@main.ywcdlco.mongodb.net/?retryWrites=true&w=majority"
+}
